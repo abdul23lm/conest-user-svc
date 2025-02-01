@@ -1,4 +1,4 @@
-module user-service
+module conest-user-svc
 
 go 1.23.5
 
